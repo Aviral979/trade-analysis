@@ -1,0 +1,12 @@
+INFO:     Started server process [9016]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+$TATAMOTORS.NS: No data found, symbol may be delisted
+$TATAMOTORS.NS: No data found, symbol may be delisted
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+$TATAMOTORS.NS: No data found, symbol may be delisted
+$TATAMOTORS.NS: No data found, symbol may be delisted
+$TATAMOTORS.NS: No data found, symbol may be delisted
+$TATAMOTORS.NS: No data found, symbol may be delisted

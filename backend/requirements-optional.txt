@@ -1,0 +1,15 @@
+# Optional accelerators — the core engine runs fully without these.
+# Install only if your Python environment supports them (Python 3.10-3.12 recommended).
+
+# VectorBT — industrial-scale backtesting / parameter sweeps
+# vectorbt>=0.26
+
+# TA-Lib — 150+ indicators & candlestick patterns (needs the C library on Windows)
+# Windows: download a matching wheel for your Python version, then:
+#   pip install TA_Lib-0.4.xx-cp3xx-cp3xx-win_amd64.whl
+# TA-Lib>=0.4.28
+
+# Kronos — AI K-line forecasting engine (HuggingFace: NeoQuasar/Kronos-small|base)
+# torch>=2.2
+# transformers>=4.45
+#
